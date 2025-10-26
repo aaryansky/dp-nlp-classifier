@@ -1,0 +1,8 @@
+# Ignore the Python virtual environment
+/venv/
+
+# Ignore all PyTorch model files
+*.pth
+
+# Ignore incomplete Chrome downloads
+*.crdownload
